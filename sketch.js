@@ -1,7 +1,7 @@
 function setup() {
   createCanvas(710, 710);
   background(255);
-  strokeWeight(10)
+  strokeWeight(50)
   colorMode(HSB) 
   
   describe('a blank canvas where the user draws by dragging the mouse')
